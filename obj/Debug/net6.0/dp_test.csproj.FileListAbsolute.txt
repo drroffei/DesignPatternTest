@@ -1,0 +1,15 @@
+/home/hjohansson/Hämtningar/dp_test/bin/Debug/net6.0/dp_test
+/home/hjohansson/Hämtningar/dp_test/bin/Debug/net6.0/dp_test.deps.json
+/home/hjohansson/Hämtningar/dp_test/bin/Debug/net6.0/dp_test.runtimeconfig.json
+/home/hjohansson/Hämtningar/dp_test/bin/Debug/net6.0/dp_test.dll
+/home/hjohansson/Hämtningar/dp_test/bin/Debug/net6.0/dp_test.pdb
+/home/hjohansson/Hämtningar/dp_test/obj/Debug/net6.0/dp_test.csproj.AssemblyReference.cache
+/home/hjohansson/Hämtningar/dp_test/obj/Debug/net6.0/dp_test.GeneratedMSBuildEditorConfig.editorconfig
+/home/hjohansson/Hämtningar/dp_test/obj/Debug/net6.0/dp_test.AssemblyInfoInputs.cache
+/home/hjohansson/Hämtningar/dp_test/obj/Debug/net6.0/dp_test.AssemblyInfo.cs
+/home/hjohansson/Hämtningar/dp_test/obj/Debug/net6.0/dp_test.csproj.CoreCompileInputs.cache
+/home/hjohansson/Hämtningar/dp_test/obj/Debug/net6.0/dp_test.dll
+/home/hjohansson/Hämtningar/dp_test/obj/Debug/net6.0/refint/dp_test.dll
+/home/hjohansson/Hämtningar/dp_test/obj/Debug/net6.0/dp_test.pdb
+/home/hjohansson/Hämtningar/dp_test/obj/Debug/net6.0/dp_test.genruntimeconfig.cache
+/home/hjohansson/Hämtningar/dp_test/obj/Debug/net6.0/ref/dp_test.dll
